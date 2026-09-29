@@ -39,7 +39,7 @@ cenários, entre partições de equivalência, análise de valores limites,
 árvore de decisão, tabela de decisão, transição de estado, análise 
 de Pareto e Pairwise.
 
-Resposta
+[Resposta](./Atividade-4-Exercício-1.pdf)
 
 -------------------------------------------------------------------
 **Exercício 2**
@@ -48,9 +48,9 @@ Calcule o número de testes positivos totais e os recomendados em
 cada um dos cenários, aplicando a técnica que determinou no exercício 1. 
 
 **Técnicas:**
-- Transição de Estado
-- Pairwise
-- Partições de Equivalência
-- Análise de Valores Limites
-- Análise de Pareto
+- [Transição de Estado](./Atividade-4-Exercício-2-Diagrama-de-Transição.pdf)
+- [Pairwise](./Atividade-4-Exercício2-Pairwise.pdf)
+- [Partições de Equivalência](./Atividade-4-Exercício-2-Partições-de-Equivalência.pdf)
+- [Análise de Valores Limites](./Atividade-4-Exercício-2-Análise-de-Valores-Limite.pdf)
+- [Análise de Pareto](./Atividade-4-Exercício-2-Análise-de-Pareto.pdf)
 
